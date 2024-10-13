@@ -1,0 +1,13 @@
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\bin\Debug\DecryptorX.exe.config
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\bin\Debug\DecryptorX.exe
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\bin\Debug\DecryptorX.pdb
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\obj\Debug\DecryptorX.csproj.AssemblyReference.cache
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\obj\Debug\DecryptorX.Form1.resources
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\obj\Debug\DecryptorX.Properties.Resources.resources
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\obj\Debug\DecryptorX.csproj.GenerateResource.cache
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\obj\Debug\DecryptorX.csproj.CoreCompileInputs.cache
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\obj\Debug\DecryptorX.exe
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\obj\Debug\DecryptorX.pdb
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\bin\Debug\Resources\close.png
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\bin\Debug\Resources\wordlists\wordlistPT.txt
+C:\Users\CHIP7\source\repos\DecryptorX\DecryptorX\bin\Debug\Resources\wordlists\wordlistEN.txt
